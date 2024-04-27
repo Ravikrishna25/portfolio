@@ -1,6 +1,6 @@
 import React from "react";
 import style from "../styles/home.module.css";
-import arjunImg from "./Images/avatar.jpg";
+
 import Typewriter from "typewriter-effect";
 import { motion, Variants } from "framer-motion";
 import Button from "../components/button/button";
